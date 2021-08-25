@@ -1,1 +1,2 @@
-printing the absolute pathname of WD
+# Shell Basics
+Understanding key concepts and basics of the Shell
